@@ -13,3 +13,9 @@
 6) If asked to continue answer yes
 7) your terminal should look like this:
 ![Image](VS_Code_Login.png)
+---
+#STEP 3:  Run Some Commands
+1) you can now run commands on your remote computer after ssh-ing through the terminal
+2) Some useful commands to know are:  cd, ls, pwd, mkdir, and cp
+3) your terminal should look like this when running commands on your remote computer:
+![Image](VS_Code_Code.png)
