@@ -21,16 +21,16 @@
 ## STEP 3:  Run Some Commands
 1. you can now run commands on your remote computer after ssh-ing through the terminal
 2. Some useful commands to know are:  
-  a. `pwd` which shows the current directory your are in
-  b. `ls` which shows the contents of the current directory
-  c. `cd [directory]` which changes the current directory
-  d. `mkdir [directory]` which creates a new directory
-  e. `cp [source] [destination]` which copies a file or folder to a destination
-  f. `cat [file]` which shows the contents of a file
-  g. `touch [file]` which creates a new file
-  h. `rm [file]` which removes a file
-  i. `mv [source] [destination]` which moves a file or folder to a destination
-  j. `history` which gives the last 50 commands used by you
+  a. `pwd` which shows the current directory your are in  
+  b. `ls` which shows the contents of the current directory  
+  c. `cd [directory]` which changes the current directory  
+  d. `mkdir [directory]` which creates a new directory  
+  e. `cp [source] [destination]` which copies a file or folder to a destination  
+  f. `cat [file]` which shows the contents of a file  
+  g. `touch [file]` which creates a new file  
+  h. `rm [file]` which removes a file  
+  i. `mv [source] [destination]` which moves a file or folder to a destination  
+  j. `history` which gives the last 50 commands used by you  
 3. your terminal should look like this when running commands on your remote computer:
 ![Image](VS_Code_Code.png)
 
